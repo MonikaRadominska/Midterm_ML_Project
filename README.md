@@ -1,7 +1,5 @@
-# Midterm_ML_Project
-Midterm Project for Ironhack
 
-Wine Quality Assessment - ML Project (Linear Regression)
+# Wine Quality - ML Project (Linear Regression)
 
 Group members: Dmitri Risaev & Monika Radominska
 
